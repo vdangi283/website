@@ -1,0 +1,12 @@
+title: EconEmpowerHub
+description: This xompany works to help financial literacy in underpriviliged communiteis
+collections:
+  outside_resources_posts:
+    output: true
+  course_specifics:
+    output: true
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
